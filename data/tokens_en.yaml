@@ -3,8 +3,8 @@ normalize: {}
 fused_tokens:
 
   - ION 
-  - IX
-  - IF
+  - ICK
+  
   
   - OL  
   - IL
@@ -52,4 +52,5 @@ vowels: [A, E, I, O, U, Y]
 # Minus: FR, OR##
 # Web:GS, BS, PR
 # Web Minus: CT,NT,RT,ON,IN,EN,UN,AN,BL
+
 # ian, dd, go,ye, eye, lt, te, hat, rin, hin, ing
