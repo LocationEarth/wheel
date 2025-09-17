@@ -1,0 +1,55 @@
+﻿# configs/tokens_en.yaml
+normalize: {}
+fused_tokens:
+
+  - ION 
+  - IX
+  - IF
+  
+  - OL  
+  - IL
+  - HI  
+ 
+  - GH 
+  - SH 
+  - TH
+  - PH
+
+  - LT 
+   
+  - ST
+ 
+
+  - BS
+  - RS 
+  - US
+ 
+
+  - AR 
+  - CR 
+  - PR
+
+  
+
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+
+
+vowels: [A, E, I, O, U, Y]
+
+# RS
+# ECK, NK, QU, ACK, AO, PH, CH, PRA, NG, DGE, RO, AR, EE, OO, US, UM, PHA, PHY, PT,PN
+# min: RS, CH, BL, BS, RR, MR, MS, WR, FT, MT
+# Minus: FR, OR##
+# Web:GS, BS, PR
+# Web Minus: CT,NT,RT,ON,IN,EN,UN,AN,BL
+# ian, dd, go,ye, eye, lt, te, hat, rin, hin, ing

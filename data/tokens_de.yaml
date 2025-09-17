@@ -1,0 +1,7 @@
+﻿normalize:
+  ä: AE
+  ö: OE
+  ü: UE
+  ß: SS
+fused_tokens: [SCH, CH, ST, NG, PF, QU, SP, TZ, LT, BL, UE, KR, ECK, IEG]
+vowels: [A, E, I, O, U, Y, AE, OE, UE]   
